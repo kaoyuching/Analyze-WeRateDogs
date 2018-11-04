@@ -40,7 +40,7 @@ I do data wrangling from two aspect: **Quality** and **Tidiness**.
 ## Analyzing and Visualizing
 The dog has the highest rating:  
 <img src="/image/max_rating.jpg" width="250"/>The highest rating dog wear in American style!<img>  
-Key insight:  
+Key insight in the report:  
  - Top 10 breed of all data
  - Proportion of higher rating and lower rating in top10 breed
  - Between higher rating and lower rating, how's the distribution of stage ?
